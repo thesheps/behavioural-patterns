@@ -14,9 +14,9 @@ Rather than providing specific implementations or interfaces used to simplify so
 
 The purpose of this workshop is to explore a few different, but related design patterns from the first of these camps.  There're a bunch of unit tests used to demonstrate some worked examples of:
 
-*The Chain of Responsibility pattern
-*The Mediator pattern
-*The Command pattern.
+* The Chain of Responsibility pattern
+* The Mediator pattern
+* The Command pattern.
 
 
-* Taken from <a href="http://www.gofpatterns.com/design-patterns/module2/threeCategories-ofDesign-patterns.php">The GOF description of design patterns</a>
+*Taken from <a href="http://www.gofpatterns.com/design-patterns/module2/threeCategories-ofDesign-patterns.php">The GOF description of design patterns</a>
